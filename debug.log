@@ -1,0 +1,2 @@
+[1215/133306.841:ERROR:file_io_win.cc(170)] CreateFile C:\Users\selim\AppData\Local\Temp\scoped_dir11932_7846\Crashpad\reports\9662b13e-7689-4f2a-b3cd-aa8941303869.dmp: The system cannot find the path specified. (0x3)
+[1215/133306.842:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
